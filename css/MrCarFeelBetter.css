@@ -53,5 +53,14 @@ i.bi-facebook{
 i.bi-instagram{
   color:#8a3ab9;}
 
+.textStyle{
+    color: white;
+    text-align: left;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
 
+a{
+  color: white;
+}
   
