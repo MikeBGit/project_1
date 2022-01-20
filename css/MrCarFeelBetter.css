@@ -1,0 +1,30 @@
+/*
+color
+dark: #212529;
+gray: #c4c8cb;
+
+*/
+
+.bgdark{
+  background-color: #212529;
+}
+.whitecolor{
+  color: white;
+}
+.btn-primary{
+  border-color: #c4c8cb;
+  background-color: transparent;
+  color: #c4c8cb;
+}
+.btn-primary:hover, .btn-primary:active, .btn-primary:focus{
+  background-color: #c4c8cb;
+  color: #212529;
+}
+i.bi-youtube{
+  color:#FF0000;
+}
+i.bi-facebook{
+  color: #4267B2;
+}
+i.bi-instagram{
+  color:#8a3ab9;}
