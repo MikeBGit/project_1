@@ -44,6 +44,9 @@ body{
   background-color: #c4c8cb;
   color: #212529;
 }
+i{
+  font-size: 1.8rem;
+}
 i.bi-youtube{
   color:#FF0000;
 }
