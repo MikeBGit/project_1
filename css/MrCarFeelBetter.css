@@ -25,8 +25,14 @@ body{
 .bgdark{
   background-color: #212529;
 }
+.bglight{
+  background-color: #c4c8cb;
+}
 .whitecolor{
   color: white;
+}
+.darkcolor{
+  color: #212529
 }
 .btn-primary{
   border-color: #c4c8cb;
