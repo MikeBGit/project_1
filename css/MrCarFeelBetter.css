@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@500&family=Karla&family=Oswald&display=swap');
 
 
+
 /*
 color
 dark: #212529;
@@ -19,7 +20,7 @@ font-family: 'Oswald', sans-serif;
 body{
   font-family: 'Karla', sans-serif;
 }
- b{
+ b, h5{
   font-family: 'EB Garamond', serif;
 }
 .bgdark{
@@ -51,3 +52,6 @@ i.bi-facebook{
 }
 i.bi-instagram{
   color:#8a3ab9;}
+
+
+  
