@@ -44,6 +44,9 @@ h5 {
   background-color: #c4c8cb;
   color: #212529;
 }
+i {
+  font-size: 1.8rem;
+}
 i.bi-youtube {
   color: #ff0000;
 }
@@ -53,9 +56,17 @@ i.bi-facebook {
 i.bi-instagram {
   color: #8a3ab9;
 }
+i.bi-instagram {
+  color: #8a3ab9;
+}
 
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
+.textStyle {
+  color: white;
+  text-align: left;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+a {
+  color: white;
 }
